@@ -75,6 +75,6 @@ Eclipse *save actions* in order to Format(ctrl-shift-F) and Organize Imports (ct
 			
 Read:
 
-	[java coding conventions](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+[java coding conventions](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
 
-	[google java style](https://google.github.io/styleguide/javaguide.html)
+[google java style](https://google.github.io/styleguide/javaguide.html)
