@@ -22,11 +22,17 @@ Eclipse *save actions* in order to Format(ctrl-shift-F) and Organize Imports (ct
 	Coding convention preferences can be set either as a workspace (preferred) or project preference.
 
 	+	Window->Preferences->Java->Code style->Clean Up->Import cleanup.xml
+	
 	+	Window->Preferences->Java->Code style->Formatter->javaconventions.xml
+	
 	+	Window->Preferences->Java->Editor->Save Actions
+	
 			[x] Perform the selected actions ...
+			
 			[x] Format
+			
 			[x] Organize imports
+			
 			[x] Additional actions -> Configure
 
 					+ Code Organizing tab: Select Remove trailing whitespace for All lines, deselect everything else
